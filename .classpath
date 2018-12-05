@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/selenium-java-3.7.1/libs/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/selenium-java-3.7.1/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/selenium-java-3.7.1/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/selenium-java-3.7.1/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/selenium-java-3.7.1/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/selenium-java-3.7.1/libs/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/selenium-java-3.7.1/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/selenium-java-3.7.1/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/selenium-java-3.7.1/client-combined-3.7.1.jar" sourcepath="C:/Users/DELL/Downloads/selenium-java-3.7.1/client-combined-3.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/selenium-java-3.7.1/client-combined-3.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Selenium webdriver/jar_files/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Selenium webdriver/jar_files/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Selenium webdriver/jar_files/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Selenium webdriver/jar_files/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Selenium webdriver/jar_files/guava-11.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Selenium webdriver/jar_files/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Selenium webdriver/jar_files/httpcore-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Selenium webdriver/jar_files/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Selenium webdriver/jar_files/json-20080701.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Selenium webdriver/jar_files/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Selenium webdriver/jar_files/platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Selenium webdriver/jar_files/selenium-api-2.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Selenium webdriver/jar_files/selenium-chrome-driver-2.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/Selenium webdriver/jar_files/selenium-remote-driver-2.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/selenium-android-driver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/java-client-6.0.0-BETA2.jar" sourcepath="C:/Users/DELL/Downloads/java-client-6.0.0-BETA2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/commons-lang3-3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
